@@ -1,0 +1,26 @@
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color:rgb(189, 229, 243);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+.socialMedia {
+    color: white;
+    margin-top: 15px;
+    cursor: pointer;
+    gap: 20px;  
+}
+.linkin{
+    margin-right: 20px;
+}
+
+.footer {
+    color: black;
+    font-size: 20px;
+}
+

@@ -1,0 +1,12 @@
+.resume-paragraph {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 20px;
+    line-height: 1.5em;
+}
+
+.skill{
+display: inline-block;
+margin-left: 600px;
+font-size: 18px;
+}

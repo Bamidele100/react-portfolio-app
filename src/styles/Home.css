@@ -1,0 +1,20 @@
+
+.mainContainer {
+    margin: auto;
+}
+.header {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+   
+}
+
+.paragraph {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    font-size: 18px;
+    line-height: 1.5em;
+    margin-bottom: 30px;
+}

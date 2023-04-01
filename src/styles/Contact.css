@@ -1,0 +1,20 @@
+
+.container {
+    width: 80%;
+    margin: 205px;
+}
+
+.form-control{
+    width: 50%;
+    display: inline;
+  
+}
+
+.form-label{
+    margin: 10px;
+    font-size: larger;
+}
+
+.btn-danger {
+    margin-left: 100px;
+}
